@@ -3,7 +3,7 @@ Group Term Project for COP3503
 Contributors: Tim Botelho, Chad Lim, Logan Hughes, Nickolas Pais, Robert Parker, Nicholas White.
 
 
-# Table of Contents
+## Table of Contents
 	1. Basic Uses
 		1.1 Default Admin Logon
 		
@@ -36,7 +36,7 @@ Contributors: Tim Botelho, Chad Lim, Logan Hughes, Nickolas Pais, Robert Parker,
 		Password: password
  
 ------------------------------------------------------------------------------------------
-## 2. File Functionality
+### 2. File Functionality
 	2.1 File Access
 		-This class opens the login csv file containing account information and the inventory
 		 csv file containing all the inventory data. Makes sure that login information exists
@@ -104,7 +104,7 @@ Contributors: Tim Botelho, Chad Lim, Logan Hughes, Nickolas Pais, Robert Parker,
  			*/
 
 ------------------------------------------------------------------------------------------
-## 3. User Types and Permission
+### 3. User Types and Permission
 	3.1: Admin 
 		The Admin user is the power user of the inventory management system. They have 
 		access to all menu options as listed below.
@@ -156,7 +156,7 @@ Contributors: Tim Botelho, Chad Lim, Logan Hughes, Nickolas Pais, Robert Parker,
 		4. Exit
 		
 ------------------------------------------------------------------------------------------	
-## 4. Full Menu Breakdown
+### 4. Full Menu Breakdown
 
 		1. Add an item to stock 
 			-This menu option allows the user to add an item to the inventory.
