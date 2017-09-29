@@ -1,6 +1,6 @@
 Technical Documentation for Inventory Management System (IMS)
 Group Term Project for COP3503
-Contributors: Tim Botelho, Chad Lim, Logan Hughes, Nickolas Pais, Robert Parker, Nicholas White.
+Contributors: Chad Lim,Tim Botelho, Logan Hughes, Nickolas Pais, Robert Parker, Nicholas White.
 
 
 ## Table of Contents
