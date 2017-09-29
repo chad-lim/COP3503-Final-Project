@@ -24,7 +24,7 @@ Contributors: Tim Botelho, Chad Lim, Logan Hughes, Nickolas Pais, Robert Parker,
 
 
 ------------------------------------------------------------------------------------------
-## 1. Basic Uses
+### 1. Basic Uses
 	Our program is an Inventory Management System (IMS) with export and import capabilities
 	from a file. It comes fully integrated with the ability to create users with four 
 	different permission levels admin, manager, stocker, and cashier. The IMS can create an
